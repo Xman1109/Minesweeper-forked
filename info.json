@@ -1,0 +1,13 @@
+{
+	"name": "Minesweeper-forked",
+	"version": "1.0.5",
+	"title": "Minesweeper forked",
+	"author": "NindyBun, forked by X_Man1109",
+	"homepage":"",
+	"description": "Requires Nindy's Core mod.\n\nIt's Minesweeper :)",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 1.1",
+		"NindyCore-forked >= 1.0.3"
+	]
+}

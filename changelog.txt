@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 12 January 2023
+  Info:
+    - Forgot to add the win condition with chording
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 12 January 2023
+  Info:
+    - Added the abilty to chord with the middle mouse button
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 11 January 2023
+  Info:
+    - Made the code faster when playing on large sizes
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 11 January 2023
+  Info:
+    - Fixed Setting Localizations
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 11 January 2023
+  Info:
+    - Initial Release
